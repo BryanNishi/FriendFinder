@@ -9,13 +9,13 @@ var exphbs = require("express-handlebars");
 app.engine("handlebars", exphbs({ defaultLayout: "main" }));
 app.set("view engine", "handlebars");
 
-app.get("/", function(req, res) {
-    res.sendFile(path.join(__dirname, 'app/public', "home.html"));
-  });
+app.use(express.urlencoded({ extended: true }));
+app.use(express.json());
 
-  app.get("/survey", function(req, res) {
-    res.sendFile(path.join(__dirname, 'app/public', "survey.html"));
-  });
+app.use(express.static("app/public"));
+
+require("./app/routing/apiRoutes.js")(app);
+require("./app/routing/htmlRoutes.js")(app);
 
 
   app.listen(PORT, function() {

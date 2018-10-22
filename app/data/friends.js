@@ -1,0 +1,164 @@
+var ferns=[
+{
+    "name":"Staghorn Fern",
+    "photo":"https://i2.wp.com/invorma.com/wp-content/uploads/2015/06/Staghorn-Fern-1.jpg?w=800",
+    "scores":[
+        5,
+        3,
+        3,
+        4,
+        5,
+        1,
+        1,
+        2,
+        2,
+        1
+      ]
+  },
+{
+    "name":"Maidenhair Fern",
+    "photo":"https://i0.wp.com/invorma.com/wp-content/uploads/2015/06/Maiden-Fern.jpg?w=800",
+    "scores":[
+        5,
+        4,
+        5,
+        1,
+        2,
+        5,
+        2,
+        3,
+        2,
+        1
+      ]
+  },
+{
+    "name":"Boston Fern",
+    "photo":"https://i0.wp.com/invorma.com/wp-content/uploads/2015/06/Boston-Fern-1.jpg?w=800",
+    "scores":[
+        5,
+        4,
+        3,
+        3,
+        2,
+        1,
+        3,
+        3,
+        3,
+        1
+      ]
+  },
+{
+    "name":"Holly Fern",
+    "photo":"https://i0.wp.com/invorma.com/wp-content/uploads/2015/06/Holly-Fern.jpg?w=800",
+    "scores":[
+        4,
+        2,
+        3,
+        4,
+        2,
+        1,
+        2,
+        5,
+        2,
+        1
+      ]
+  },
+{
+    "name":"Bird’s Nest Fern",
+    "photo":"https://i1.wp.com/invorma.com/wp-content/uploads/2015/06/Birds-Nest-Fern.jpg?w=800",
+    "scores":[
+        2,
+        1,
+        5,
+        1,
+        4,
+        3,
+        2,
+        3,
+        2,
+        1
+      ]
+  },
+{
+    "name":"Asparagus Ferns",
+    "photo":"https://i1.wp.com/invorma.com/wp-content/uploads/2015/06/Asperagus-Fern.jpg?w=800",
+    "scores":[
+        1,
+        2,
+        3,
+        2,
+        1,
+        1,
+        5,
+        2,
+        4,
+        1
+      ]
+  },
+{
+    "name":"Australian Tree Fern",
+    "photo":"https://i1.wp.com/invorma.com/wp-content/uploads/2015/06/Australian-Tree-Fern.jpg?w=800",
+    "scores":[
+        1,
+        3,
+        5,
+        1,
+        3,
+        2,
+        5,
+        5,
+        5,
+        1
+      ]
+  },
+{
+    "name":"Japanese Painted Fern",
+    "photo":"https://i1.wp.com/invorma.com/wp-content/uploads/2015/06/Japanese-Painted-Fern.jpg?w=800",
+    "scores":[
+        1,
+        1,
+        5,
+        1,
+        1,
+        4,
+        1,
+        5,
+        3,
+        1
+      ]
+  },
+{
+    "name":"Licorice Fern",
+    "photo":"https://i1.wp.com/invorma.com/wp-content/uploads/2015/06/Licorice-Fern.jpg?w=800",
+    "scores":[
+        1,
+        4,
+        5,
+        1,
+        1,
+        3,
+        1,
+        3,
+        1,
+        5
+      ]
+  },
+{
+    "name":"Silver Fern",
+    "photo":"https://i1.wp.com/invorma.com/wp-content/uploads/2015/06/Silver-Fern.jpg?w=800",
+    "scores":[
+        1,
+        4,
+        5,
+        1,
+        1,
+        4,
+        1,
+        5,
+        2,
+        5
+      ]
+  }
+  ];
+
+  module.exports = ferns;
