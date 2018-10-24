@@ -49,7 +49,7 @@ var ferns=[
   },
 {
     "name":"Holly Fern",
-    "photo":"https://i0.wp.com/invorma.com/wp-content/uploads/2015/06/Holly-Fern.jpg?w=800",
+    "photo":"https://i2.wp.com/invorma.com/wp-content/uploads/2015/06/Holly-Fern.jpg?w=800",
     "scores":[
         4,
         2,
@@ -81,7 +81,7 @@ var ferns=[
   },
 {
     "name":"Asparagus Ferns",
-    "photo":"https://i1.wp.com/invorma.com/wp-content/uploads/2015/06/Asperagus-Fern.jpg?w=800",
+    "photo":"https://i2.wp.com/invorma.com/wp-content/uploads/2015/06/Asparagus-Ferns.jpg?w=800",
     "scores":[
         1,
         2,
@@ -97,7 +97,7 @@ var ferns=[
   },
 {
     "name":"Australian Tree Fern",
-    "photo":"https://i1.wp.com/invorma.com/wp-content/uploads/2015/06/Australian-Tree-Fern.jpg?w=800",
+    "photo":"https://i2.wp.com/invorma.com/wp-content/uploads/2015/06/Australian-Tree-Fern.jpeg?w=600",
     "scores":[
         1,
         3,
@@ -113,7 +113,7 @@ var ferns=[
   },
 {
     "name":"Japanese Painted Fern",
-    "photo":"https://i1.wp.com/invorma.com/wp-content/uploads/2015/06/Japanese-Painted-Fern.jpg?w=800",
+    "photo":"https://i0.wp.com/invorma.com/wp-content/uploads/2015/06/Japanese-Painted-Fern.jpg?w=800",
     "scores":[
         1,
         1,
@@ -129,7 +129,7 @@ var ferns=[
   },
 {
     "name":"Licorice Fern",
-    "photo":"https://i1.wp.com/invorma.com/wp-content/uploads/2015/06/Licorice-Fern.jpg?w=800",
+    "photo":"https://i0.wp.com/invorma.com/wp-content/uploads/2015/06/Licorice-Fern.jpg?w=800",
     "scores":[
         1,
         4,
@@ -145,7 +145,7 @@ var ferns=[
   },
 {
     "name":"Silver Fern",
-    "photo":"https://i1.wp.com/invorma.com/wp-content/uploads/2015/06/Silver-Fern.jpg?w=800",
+    "photo":"https://i1.wp.com/invorma.com/wp-content/uploads/2015/06/Silver-Fern.jpg?w=798",
     "scores":[
         1,
         4,

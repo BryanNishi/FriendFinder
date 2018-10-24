@@ -19,6 +19,13 @@ $("#submit-btn").on("click", function (event) {
     };
 
     $.post("/api/new", newFern,
-        function (data) {});
+        function (data) {
 
-  });
+            console.log(data);
+            $("#resName").text(data.name);
+            $("#resPhoto").attr("src", data.photo);
+        });
+
+
+
+});

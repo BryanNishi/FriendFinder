@@ -49,21 +49,18 @@ module.exports = function (app) {
                
                 matchedFern = ferns[i];
                 console.log("Match!", matchedFern.name, matchedFern.photo);
-                // $("#resName").html(matchedFern.name);
-                // $("#resName").html(matchedFern.photo);
-                return 
+              
+                 
             } else if (32 <= usertotalscore) {
                 
                 matchedFern = ferns[6];
                 console.log("too big", matchedFern.name, matchedFern.photo);
-                // $("#resName").append(matchedFern.name);
-                // $("#resName").append(matchedFern.photo);
+              
             } else if (21 <= usertotalscore) {
                 
                 matchedFern = ferns[5];
                 console.log("too small", matchedFern.name, matchedFern.photo);
-                // $("#resName").append(matchedFern.name);
-                // $("#resName").append(matchedFern.photo);
+              
             }
         };
         res.json(matchedFern);
